@@ -4,3 +4,5 @@
 # XLibre for VOID linux  ![void](https://github.com/sofijacom/xlibre/blob/main/img/void.png)
 
 ### _(Unofficial) XLibre package repositories for Void linux_
+
+> _**repository provides binary packages for:** x86_64-glibc_
