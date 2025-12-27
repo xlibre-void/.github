@@ -244,9 +244,9 @@ section {
     display: inline-block;
     background: #667eea;
     color: white;
-    padding: 0.8rem 1.5rem;
+    padding: 0.5rem 1.2rem;
     text-decoration: none;
-    border-radius: 6px;
+    border-radius: 10px;
     font-weight: 600;
     transition: background 0.3s ease;
 }
