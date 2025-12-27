@@ -242,7 +242,7 @@ section {
 
 .btn {
     display: inline-block;
-    background: #667eea;
+    background: #babbf1;
     color: #000000;
     padding: 0.5rem 1.2rem;
     text-decoration: none;
@@ -253,7 +253,7 @@ section {
 }
 
 .btn:hover {
-    background: #004a77;
+    background: #0ea8f5;
 }
 
 /* Why independent section */
