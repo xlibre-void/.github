@@ -68,7 +68,7 @@ section {
 
 .lead {
     font-size: 1.3rem;
-    color: #666;
+    color: #4c4f69;
     max-width: 800px;
     margin: 0 auto;
     line-height: 1.7;
@@ -130,7 +130,7 @@ section {
 
 .installation p {
     font-size: 1.1rem;
-    color: #666;
+    color: #4c4f69;
     margin-bottom: 2rem;
     text-align: center;
 }
@@ -192,7 +192,7 @@ section {
 }
 
 .method p {
-    color: #666;
+    color: #4c4f69;
     margin-bottom: 1rem;
 }
 
@@ -236,7 +236,7 @@ section {
 }
 
 .support-item p {
-    color: #666;
+    color: #4c4f69;
     margin-bottom: 1.5rem;
 }
 
@@ -296,7 +296,7 @@ section {
 }
 
 .reason p {
-    color: #666;
+    color: #4c4f69;
 }
 
 /* Footer */
