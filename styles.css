@@ -301,7 +301,7 @@ section {
 /* Footer */
 footer {
     background: #2c3e50;
-    color: #000000;
+    color: white;
     padding: 2rem 0;
     text-align: center;
     margin-top: 4rem;
@@ -312,7 +312,7 @@ footer p {
 }
 
 footer a {
-    color: #aa55ff;
+    color: #00aaff;
     text-decoration: none;
 }
 
