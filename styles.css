@@ -384,3 +384,14 @@ footer a:hover {
         padding: 1.5rem 1rem;
     }
 }
+
+	@import url('https://fonts.googleapis.com/css?family=Philosopher:400,700&display=swap&subset=cyrillic-ext');	
+     svg {
+      font-weight: bold;
+      max-width: 500px;
+      height: auto;
+    }
+		
+		text {
+      font-family: 'Philosopher', sans-serif;
+    }
