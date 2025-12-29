@@ -300,12 +300,22 @@ section {
 }
 
 /* Footer */
-footer {
+/*footer {
     background: #34495e;
     color: white;
     padding: 2rem 0;
     text-align: center;
     margin-top: 4rem;
+} */
+
+footer {
+    max-width: inherit !important;
+    margin: auto;
+    padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
+    text-align: center;
+    line-height: 60px;
+    background: #151b24;
+    color: #a5adcb;	
 }
 
 footer p {
