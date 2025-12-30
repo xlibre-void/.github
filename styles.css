@@ -9,12 +9,11 @@ body {
 /* giscus section */
 .container-giscus {
     max-width: 1000px;
-    min-height: 150px;
-    padding-right: 20px;
-    padding-left: 20px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 /* giscus section */
-.giscuss {
+.comment {
     text-align: left;
     padding: 3rem 0;
     background: white;
