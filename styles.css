@@ -181,6 +181,13 @@ section {
     text-align: center;
 }
 
+.alternative-methods p {
+    font-size: 1.1rem;
+    color: #4c4f69;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
 .method {
     margin-bottom: 2.5rem;
 }
