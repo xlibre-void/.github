@@ -1,4 +1,4 @@
-<img width="1366" height="auto" alt="XLibre-2" src="https://github.com/xlibre-void/xlibre/blob/main/img/XLibre-2.png" />
+<img width="1366" height="auto" alt="XLibre-2" src="https://github.com/xlibre-void/xlibre/blob/main/img/XLibre-1.png" />
 
 
 # XLibre for VOID linux ![Platform](https://img.shields.io/badge/platform-Void%20Linux-478061?logo=linux) ![void](https://github.com/xlibre-void/xlibre/blob/main/img/void.png)
