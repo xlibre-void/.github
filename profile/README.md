@@ -1,7 +1,7 @@
 <img width="1366" height="auto" alt="XLibre-2" src="https://github.com/xlibre-void/xlibre/blob/main/img/XLibre-1.png" />
 
 
-# XLibre for Void Linux ![Platform](https://img.shields.io/badge/platform-Void%20Linux-478061?logo=linux) ![void](https://github.com/xlibre-void/xlibre/blob/main/img/void.png) ![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=badge&label=Xlibre-Void&logo=X&color=df8e1d)
+# XLibre for Void Linux ![Platform](https://img.shields.io/badge/platform-Void%20Linux-478061?logo=linux)  ![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=badge&label=Xlibre-Void&logo=X&color=df8e1d) [![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=badge&logo=voidlinux&logoColor=white)](#)
 
 ### ❯ _(Unofficial) XLibre package repositories for Void linux_
 
@@ -14,3 +14,5 @@
 <p align="center">
 	<a href="https://github.com/xlibre-void/xlibre/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
+
+<!-- ![void](https://github.com/xlibre-void/xlibre/blob/main/img/void.png) -->
