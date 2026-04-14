@@ -5,7 +5,7 @@
 
 ### ❯ _(Unofficial) XLibre package repositories for Void linux_
 
-> _**repository provides binary packages for:** x86_64-glibc, x86_64-musl_
+> _**repository provides binary packages for:** `x86_64-glibc,` `x86_64-musl`_
 
 - Website: https://xlibre-void.github.io/.github/
 
