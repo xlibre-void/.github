@@ -16,3 +16,4 @@
 </p>
 
 <!-- ![void](https://github.com/xlibre-void/xlibre/blob/main/img/void.png) -->
+<!-- [![glibc](https://img.shields.io/badge/x86/64-glibc-glibc?style=plastic&logo=X&color=)](#) -->
