@@ -1,7 +1,7 @@
 <img width="1366" height="auto" alt="XLibre-2" src="https://github.com/xlibre-void/xlibre/blob/main/img/XLibre-1.png" />
 [![Platform](https://img.shields.io/badge/platform-Void%20Linux-478061?logo=linux)](#)
 
-# XLibre for Void Linux [![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=badge&label=Xlibre-Void&logo=X&color=df8e1d)](https://github.com/xlibre-void/xlibre) [![Platform](https://img.shields.io/badge/platform-Void%20Linux-478061?logo=linux)](#) [![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=badge&logo=voidlinux&logoColor=white)](#)
+# XLibre for Void Linux [![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=badge&label=Xlibre-Void&logo=X&color=df8e1d)](https://github.com/xlibre-void/xlibre) [![Platform](https://img.shields.io/badge/platform-Void%20Linux-478061?logo=linux)](https://voidlinux.org/) [![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=badge&logo=voidlinux&logoColor=white)](https://voidlinux.org/download/)
 
 ### ❯ _(Unofficial) XLibre package repositories for Void linux_
 <!-- `x86_64-glibc` `x86_64-musl` -->
