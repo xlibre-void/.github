@@ -447,5 +447,6 @@ footer a:hover {
 
 h2 {
     font-weight: 400;
+    text-transform: uppercase;
 }
 /* Изображения коментариев */
