@@ -4,7 +4,7 @@
 <!-- [![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=badge&logo=voidlinux&logoColor=white)](https://voidlinux.org/download/) -->
 
 ### ❯ _(Unofficial) XLibre package repositories for Void linux_
-<!-- `x86_64-glibc` `x86_64-musl` -->
+<!-- `x86_64-glibc` `x86_64-musl` $${\color{red}\text{Test build}}$$ -->
 > _**repository provides binary packages for:**_
 &nbsp;
 [![x85_64-glibc](https://img.shields.io/badge/x86__64-glibc-478061?style=plastic&colorA=363a4f&colorB)](#)
