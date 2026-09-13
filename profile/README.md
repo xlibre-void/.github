@@ -10,7 +10,12 @@
 [![x85_64-glibc](https://img.shields.io/badge/x86__64-glibc-478061?style=plastic&colorA=363a4f&colorB)](#)
 [![x86_64-musl](https://img.shields.io/badge/x86__64-musl-478061?style=plastic&colorA=363a4f&colorB)](#) 
 [![x86_64-musl](https://img.shields.io/badge/i686-glibc-478061?style=plastic&colorA=363a4f&colorB)](#)
-> 
+
+> _**repository provides binary packages for: ⮞ Test build**_
+&nbsp;
+[![x85_64-glibc](https://img.shields.io/badge/aarch64-glibc-478061?style=plastic&colorA=363a4f&colorB)](#)
+[![x86_64-musl](https://img.shields.io/badge/aarch64-musl-478061?style=plastic&colorA=363a4f&colorB)](#)
+>  
 - Website: https://xlibre-void.github.io/.github/
 
 <img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" />
