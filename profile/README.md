@@ -10,14 +10,14 @@
 [![x85_64-glibc](https://img.shields.io/badge/x86__64-glibc-478061?style=plastic&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre)
 [![x86_64-musl](https://img.shields.io/badge/x86__64-musl-478061?style=plastic&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre) 
 [![x86_64-musl](https://img.shields.io/badge/i686-glibc-478061?style=plastic&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre)
-> 
-> _**repository provides binary packages for:**_ ⮞ $${\color{red}Test \ build}$$
+
+> _**repository provides binary packages for:**_
 &nbsp;
 [![x85_64-glibc](https://img.shields.io/badge/aarch64-glibc-478061?style=plastic&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre-xserver)
 [![x86_64-musl](https://img.shields.io/badge/aarch64-musl-478061?style=plastic&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre-xserver)
 [![x85_64-glibc](https://img.shields.io/badge/armv7l-glibc-478061?style=plastic&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre-xserver)
 [![x86_64-musl](https://img.shields.io/badge/armv6l-musl-478061?style=plastic&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre-xserver)
->  
+>  ⮞ $${\color{red}Test \ build}$$
 - Website: https://xlibre-void.github.io/.github/
 
 <img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" />
