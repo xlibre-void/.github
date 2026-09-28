@@ -17,7 +17,7 @@
 [![x86_64-musl](https://img.shields.io/badge/aarch64-musl-478061?style=plastic&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre-xserver)
 [![x85_64-glibc](https://img.shields.io/badge/armv7l-glibc-478061?style=plastic&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre-xserver)
 [![x86_64-musl](https://img.shields.io/badge/armv6l-musl-478061?style=plastic&colorA=363a4f&colorB)](https://github.com/xlibre-void/xlibre-xserver)
->  ⮞ $${\color{red}Test \ build}$$
+> <!--⮞ $${\color{red}Test \ build}$$ -->
 - Website: https://xlibre-void.github.io/.github/
 
 <img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" />
