@@ -1,4 +1,8 @@
-<img width="1000" height="auto" alt="XLibre-1" src="https://github.com/xlibre-void/xlibre/blob/main/img/XLibre-18.jpg" />
+<div align="center" markdown="1">
+  <a>
+  <img width="540" height="auto" alt="XLibre-1" src="https://github.com/xlibre-void/xlibre/blob/main/img/XLibre-18.jpg" />
+ </a>
+</div>
 
 # XLibre for Void Linux [![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=flat&label=Xlibre-Void&logo=X&colorA=363a4f&colorB=df8e1d)](https://github.com/xlibre-void/xlibre) [![Platform](https://img.shields.io/badge/platform-Void%20Linux-478061?style=flat&logo=linux&colorA=363a4f)](https://voidlinux.org/)
 <!-- [![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=badge&logo=voidlinux&logoColor=white)](https://voidlinux.org/download/) -->
