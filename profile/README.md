@@ -1,6 +1,6 @@
 <div align="center" markdown="1">
  <a>
-  <img width="540" height="auto" alt="XLibre-1" src="https://github.com/xlibre-void/xlibre/blob/main/img/XLibre-18.jpg" />
+  <img width="540" height="auto" alt="XLibre-1" src="https://github.com/xlibre-void/xlibre/blob/main/img/XLibre-18.png" />
  </a>
 </div>
 
