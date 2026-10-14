@@ -2,7 +2,7 @@
 
 <div align="center" markdown="1">
   <a>	
-  <img width="420" height="auto" alt="XLibre-1" src="https://github.com/xlibre-void/.github/blob/main/resources/XLibre-black-18.png" />
+  <img width="540" height="auto" alt="XLibre-1" src="https://github.com/xlibre-void/.github/blob/main/resources/XLibre-black-18.png" />
   </a>	
 </div>
 
